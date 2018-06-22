@@ -6,10 +6,10 @@
 - [Architectures Logicielles Java(1)](http://www.cnam-liban.fr/rechercher-par-discipline/architectures-logicielles-java-1--935447.kjsp?RH=1454491189465)
 - [Réseaux et systèmes répartis(2)](http://formation.cnam.fr/rechercher-par-discipline/reseaux-et-systemes-repartis-2--411337.kjsp?RF=)
 
-New Idea
+New Idea:
 The purpose of this app is to create a Car SOS service that permits a person to call for assistance in case of car problem and he also can browse for nearby Car Mecanics that are subscribed to thi app.
 
-Old Idea
+Old Idea:
 The idea is to make an application that tracks Sports Players performance on the field using GPS tracking devices on each player.
 The collected data will be stored in a Database, according to the team and player.
 A management interface will be prepared to manage teams, players and matches.
